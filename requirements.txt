@@ -1,0 +1,12 @@
+pyrogram
+pyrofork==2.3.59
+aiogram
+aiohttp
+anitopy
+Pillow
+psutil
+hachoir
+tgcrypto
+motor
+dnspython
+#git+https://github.com/KurimuzonAkuma/pyrogram.git
